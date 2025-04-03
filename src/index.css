@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-100: #892CDC;
+  --primary-200: #BC6FF1;
+  --primary-300: #fdf6fd;
+  --accent-100: #D9ACF5;
+  --accent-200: #fff4ff;
+  --text-100: #EEEEEE;
+  --text-200: #FDEBED;
+  --bg-100: #080707;
+  --bg-200: #393E46;
+  --bg-300: #454e59;
+}
+
+body {
+  background-color: var(--bg-100);
+  color: var(--text-100);
+}
+
+@layer utilities {
+  .bg-gradient {
+    background: linear-gradient(to right, var(--primary-100), var(--primary-200));
+  }
+}
