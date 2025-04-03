@@ -11,7 +11,7 @@ export default function HeroHighlightDemo() {
         <AnimatedShinyTextDemo />
         <h1 className="text-4xl font-bold tracking-tight text-[var(--text-100)] sm:text-6xl">
           Revolutionize Your Learning with{" "}
-          <Highlight>Shiksha Saarthi</Highlight>
+          <Highlight>Mentora-AI</Highlight>
         </h1>
         <div className="flex flex-col items-center gap-6">
           <p className="max-w-2xl text-base text-[var(--text-200)] sm:text-lg">

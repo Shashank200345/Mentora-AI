@@ -13,7 +13,7 @@ export default function SVGMaskEffectDemo() {
         className="h-[40rem] rounded-md text-black dark:text-black"
       >
         Transform your learning journey with{" "}
-        <span className="text-blue-500">Shiksha Saarthi</span> - where{" "}
+        <span className="text-blue-500">Mentora-AI</span> - where{" "}
         <span className="text-blue-500">AI meets education</span> to create the future of learning.
       </MaskContainer>
     </div>

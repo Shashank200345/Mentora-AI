@@ -14,7 +14,7 @@ export default function TracingBeamDemo() {
           <Cover>Architecture</Cover>
         </h1>
         <p className="text-gray-400 text-center text-lg">
-          Explore the technologies and architecture powering Project Shiksha Saarthi
+          Explore the technologies and architecture powering Project Mentora-AI
         </p>
       </div>
       
