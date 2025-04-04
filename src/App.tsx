@@ -35,7 +35,7 @@ export default function App() {
         <div className="relative z-20 flex flex-col items-center justify-center gap-4 px-4 text-center">
           <h3 className="text-2xl font-bold">Project Mentora-AI</h3>
           <p className="text-muted-foreground">
-            Created by Team Tech Titans
+            Created by Team Code Catalyst
           </p>
         </div>
       
