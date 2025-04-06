@@ -1,4 +1,4 @@
-# Shiksha Saarthi - AI-Powered Learning Platform
+# Mentora - AI-Powered Learning Platform
 
 A modern, interactive learning platform built with Next.js, TypeScript, and Tailwind CSS. This project features beautiful UI components, smooth animations, and an AI-powered learning experience.
 
