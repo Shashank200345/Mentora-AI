@@ -17,7 +17,7 @@ A modern, interactive learning platform built with Next.js, TypeScript, and Tail
 - **Framework:** Next.js 14
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
-- **UI Components:** shadcn/ui
+- **UI Components:** aceternity ui
 - **Animations:** Framer Motion
 - **Icons:** Tabler Icons
 - **State Management:** React Hooks
